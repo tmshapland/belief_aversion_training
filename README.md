@@ -12,7 +12,7 @@ I do not claim this method is the only way to change a belief. I also recognize 
 
 ## Theory
 
-We don’t believe what we know. Rather, we believe what we feel. I may rationally know that I am enough, but it is only when I feel that I am enough that I will react to experience as if I am enough. Rational logic is an important component of belief but emotion is the arbiter. In one [example study](Harris 2008), when subjects were presented with an idea they disbelieved, fMRI imaging showed activation in brain regions associated with disgust. If you want to change a belief about something, you must change what you feel about that something.
+We don’t believe what we know. Rather, we believe what we feel. I may rationally know that I am enough, but it is only when I feel that I am enough that I will react to experience as if I am enough. Rational logic is an important component of belief but emotion is the arbiter. In one [example study](https://drive.google.com/file/d/1QOTn2gme6AlfCnfmFa-gXSrhuFOLZNTb/view?usp=sharing), when subjects were presented with an idea they disbelieved, fMRI imaging showed activation in brain regions associated with disgust. If you want to change a belief about something, you must change what you feel about that something.
 
 The brain is an association-making machine. It is neuroplastic, constantly making new associations as “neurons that wire together, fire together.” When neural pathways are simultaneously activated, they increase their connectivity. This applies as well to associating ideas with emotional reactions. With enough brute-force training, we can train a computer vision model to recognize an object and a human mind to disbelieve an idea.  
 
